@@ -1,1 +1,1 @@
-Simple implementation of tic-tac-toe (OOP) with options for two manual player and one computer with three different levels of difficulty.
+Simple implementation of tic-tac-toe (OOP) with options for two-player mode and single-player mode with the computer with three different levels of difficulty.
